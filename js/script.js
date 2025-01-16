@@ -1,5 +1,5 @@
-const clientId = `8e0d46f1890a40ebac8dbbe80bbce99c`;
-const clientSecret = `9c2e0b5412bf4a47ab4a4e7de8336c28`
+const clientId = ``;
+const clientSecret = ``
 const encodedCredentials = btoa(`${clientId}:${clientSecret}`);
 
 const informs = document.getElementById('informs');
